@@ -1,0 +1,77 @@
+~ start
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_start_2.wav]
+아리사: 안녕하세요, 신입. 저는 아리사 입니다
+[wait=0.3]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_start_3.wav]
+아리사: 오늘부터 여러분의 훈련을 담당하게 되었습니다.
+[wait=0.4]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_start_4.wav]
+아리사: 먼저 기본적인 적응 훈련부터 시작하겠습니다.
+[wait=0.05]
+아리사: 양손을 들어 확인해 주세요.
+=> END
+
+~ look_around
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_look_1.wav]
+아리사: 훌륭합니다.
+[wait=0.01]
+아리사: 이제 주변을 둘러보세요.
+=> END
+
+~ move
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_move_1.wav]
+아리사: 좋아요. 기본 동작에 문제가 없어 보이네요.
+[wait=1.4]
+아리사: 이제 훈련장으로 이동하겠습니다.
+[wait=1]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_move_2.wav]
+아리사: 앞의 키오스크를 봐주세요.
+[wait=2]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_move_3.wav]
+아리사: 이 키오스크를 통해 KGS가 제공하는 
+[wait=2]
+아리사: 다양한 서비스에 접근할 수 있습니다.
+[wait=1]
+아리사: 앞에 보이는 화면을 조작해
+[wait=2]
+아리사: 기초 훈련을 진행해 주세요.
+=> END
+
+~ tutorial_pick_up
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_pick_up_1.wav]
+아리사: 기초 훈련에 오신 것을 환영합니다.
+[wait=2]
+아리사: 오늘은 엽총의 기본적인 사용법을 익히겠습니다.
+[wait=2.3]
+아리사: 먼저, 엽총을 집어들어 보세요.
+=> END
+
+~ tutorial_shoot
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_shoot_1.wav]
+아리사: 좋습니다.
+[wait=0.5]
+아리사: 이 총은 한 번에 최대 2발을 발사할 수 있습니다.
+[wait=1.4]
+아리사: 총을 발사해 보세요.
+=> END
+
+~ tutorial_eject
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_eject_1.wav]
+아리사: 잘했습니다.
+[wait=0.5]
+아리사: 탄을 다 쏘았다면 재장전을 해야 합니다.
+[wait=1.7]
+아리사: 총을 열어 사용한 탄피를 배출해보세요.
+[wait=1]
+=> END
+
+~ tutorial_reload
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_reload_1.wav]
+아리사: 잘했습니다.
+[wait=1]
+아리사: 이제 총을 닫아보세요.
+[wait=1]
+아리사: KGS의 진보적인 엽총은 자동으로 재장전됩니다.
+[wait=2]
+아리사: 이제 다시 총을 발사해 보세요.
+=> END

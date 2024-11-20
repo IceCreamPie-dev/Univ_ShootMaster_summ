@@ -1,0 +1,77 @@
+~ start
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_start_2.wav]
+Arisa: Hello, recruit. I'm Arisa.
+[wait=0.3]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_start_3.wav]
+Arisa: Welcome to the KGS New Recruit Training Program.
+[wait=0.4]
+Arisa: From today, I'll be in charge of your training.
+[wait=0.4]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_start_4.wav]
+Arisa: We'll start with basic adaptation training.
+[wait=0.05]
+Arisa: Please raise both hands for verification.
+=> END
+
+~ look_around
+[play_sfx=Voice/Tutorial/tutorial_look_1.mp3]
+Arisa: Excellent.
+[wait=0.01]
+Arisa: Now, look around you.
+=> END
+
+~ move
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_move_1.wav]
+Arisa: Good. Your basic movements seem fine.
+[wait=1.4]
+Arisa: We'll now move to the training area.
+[wait=1]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_move_2.wav]
+Arisa: Please look at the kiosk in front of you.
+[wait=2]
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_move_3.wav]
+Arisa: Through this kiosk, you can access various services provided by KGS.
+[wait=2]
+[wait=1]
+[wait=1]
+Arisa: Please interact with the screen you see and proceed with the basic training.
+=> END
+
+~ tutorial_pick_up
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_pick_up_1.wav]
+Arisa: Welcome to basic training.
+[wait=1]
+Arisa: Today, we'll learn the fundamental usage of a shotgun.
+[wait=1]
+Arisa: First, pick up the shotgun.
+=> END
+
+~ tutorial_shoot
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_shoot_1.wav]
+Arisa: Good.
+[wait=1]
+Arisa: This gun can fire up to 2 shots at a time.
+[wait=1]
+Arisa: Try firing the gun.
+=> END
+
+~ tutorial_eject
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_eject_1.wav]
+Arisa: Well done.
+[wait=1]
+Arisa: If you've fired all rounds, you need to reload.
+[wait=1]
+Arisa: Open the gun and eject the used shells.
+[wait=1]
+=> END
+
+~ tutorial_reload
+[play_sfx=res://Assets/Sfx_DialogManager/Voice/Tutorial/tutorial_reload_1.wav]
+Arisa: Well done.
+[wait=1]
+Arisa: Now close the gun.
+[wait=1]
+Arisa: KGS's advanced shotgun reloads automatically.
+[wait=1]
+Arisa: Now try firing the gun again.
+=> END
