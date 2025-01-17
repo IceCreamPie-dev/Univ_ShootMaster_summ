@@ -1,6 +1,8 @@
 # Univ_ShootMaster_summ
 Univ_ShootMaster_summ
 
+<iframe src="https://drive.google.com/file/d/1g--5IixpdHckdw8_ZNiHMM8ipB5-XK2W/preview" width="640" height="480" allow="autoplay"></iframe>
+
 **shooter_clay.tscn** - 클레이 발사장치 씬
 ```
 var shooter = $shooter
