@@ -1,4 +1,4 @@
-# Univ_ShootMaster 졸업 프로젝트 META QUEST 를 위한 SHOOT MASTER VR 정리
+# 졸업 프로젝트 META QUEST 를 위한 SHOOT MASTER VR 정리
 ![Thumb Image](https://raw.githubusercontent.com/IceCreamPie-dev/Univ_ShootMaster_summ/main/thumb.png)
 [데모 영상 구글 드라이브](https://drive.google.com/file/d/1g--5IixpdHckdw8_ZNiHMM8ipB5-XK2W/view?usp=sharing)
 
