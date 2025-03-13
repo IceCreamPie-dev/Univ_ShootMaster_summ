@@ -4,7 +4,8 @@
 
 졸업 논문 및 프로젝트를 위해 개발한 VR 클레이 사격게임, 아케이드성을 높인 사격게임을 통해 이용자의 반응속도와 사격능력을 향상 시키기 위해 개발하였다.
 
-개발기간 (8주)
+개발기간 (8주 일 작업시간 3H)
+개인작품 / 3D 모델링 프로그래밍 등등 엔진 GODOT 4.3
 ![Gant Image](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ/blob/main/gantCHarg.png)
 
 
