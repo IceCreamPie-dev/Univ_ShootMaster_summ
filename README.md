@@ -1,6 +1,6 @@
 # 졸업 프로젝트 META QUEST 를 위한 SHOOT MASTER VR 정리
 ![Thumb Image](https://raw.githubusercontent.com/IceCreamPie-dev/Univ_ShootMaster_summ/main/thumb.png)
-[데모 영상 구글 드라이브](https://drive.google.com/file/d/1g--5IixpdHckdw8_ZNiHMM8ipB5-XK2W/view?usp=sharing)
+[데모 영상 구글 드라이브](https://youtu.be/vJzFoywL2YQ)
 
 졸업 논문 및 프로젝트를 위해 개발한 VR 클레이 사격게임, 아케이드성을 높인 사격게임을 통해 이용자의 반응속도와 사격능력을 향상 시키기 위해 개발하였다.
 
