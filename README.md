@@ -8,7 +8,7 @@
 ![Gant Image](https://github.com/IceCreamPie-dev/Univ_ShootMaster_summ/blob/main/gantCHarg.png)
 
 
-# 주요 코드 소개  
+# 주요 코드 사용법 소개  
 **shooter_clay.tscn** - 클레이 발사장치 씬
 ```
 var shooter = $shooter
